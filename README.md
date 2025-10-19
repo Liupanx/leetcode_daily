@@ -14,10 +14,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Liupanx/leetcode_daily/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/Liupanx/leetcode_daily/tree/master/0300-longest-increasing-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Liupanx/leetcode_daily/tree/master/1250-longest-common-subsequence) |
 ## String
 |  |
 | ------- |
 | [1250-longest-common-subsequence](https://github.com/Liupanx/leetcode_daily/tree/master/1250-longest-common-subsequence) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Liupanx/leetcode_daily/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Liupanx/leetcode_daily/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
