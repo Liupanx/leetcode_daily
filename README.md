@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Liupanx/leetcode_daily/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Liupanx/leetcode_daily/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Search
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Liupanx/leetcode_daily/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Liupanx/leetcode_daily/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Liupanx/leetcode_daily/tree/master/0300-longest-increasing-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Liupanx/leetcode_daily/tree/master/1250-longest-common-subsequence) |
 ## String
