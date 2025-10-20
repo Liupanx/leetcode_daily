@@ -1,7 +1,7 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
         #DP method
-        #Time: Space:
+        #Time: O(amount * len(coins)) = O(n**2) Space:O(n) #dp array
 
         dp = [amount+1] * (amount+1)
         dp[0] = 0
