@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Liupanx/leetcode_daily/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Liupanx/leetcode_daily/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Liupanx/leetcode_daily/tree/master/0322-coin-change) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Liupanx/leetcode_daily/tree/master/1706-min-cost-to-connect-all-points) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,4 +79,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Liupanx/leetcode_daily/tree/master/0055-jump-game) |
+## Union Find
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Liupanx/leetcode_daily/tree/master/1706-min-cost-to-connect-all-points) |
+## Graph
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Liupanx/leetcode_daily/tree/master/1706-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Liupanx/leetcode_daily/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
