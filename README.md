@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Liupanx/leetcode_daily/tree/master/0014-longest-common-prefix) |
 | [0055-jump-game](https://github.com/Liupanx/leetcode_daily/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Liupanx/leetcode_daily/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Liupanx/leetcode_daily/tree/master/0088-merge-sorted-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Liupanx/leetcode_daily/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Liupanx/leetcode_daily/tree/master/0139-word-break) |
 | [1250-longest-common-subsequence](https://github.com/Liupanx/leetcode_daily/tree/master/1250-longest-common-subsequence) |
 ## Math
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Liupanx/leetcode_daily/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Liupanx/leetcode_daily/tree/master/0139-word-break) |
 ## Breadth-First Search
 |  |
