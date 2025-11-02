@@ -1,12 +1,11 @@
 import heapq
 def two_point_distance(point1,  point2) -> int:
-    # point1: [2, 1] point2: [3, 0]
     distance = abs(point1[0] - point2[0]) + abs(point1[1] - point2[1])
     return distance
 
 class Solution:
     def minCostConnectPoints(self, points: List[List[int]]) -> int:
-        # Prim's Algorithm #heappop()
+        # Prim's Algorithm
         n = len(points)
         visited = []*n
 
@@ -33,7 +32,7 @@ class Solution:
         return result
 
 
-
+        # Kruskal's algorithm 
 
         # all_dis = []
         # for i in range(n):
