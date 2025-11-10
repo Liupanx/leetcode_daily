@@ -1,37 +1,34 @@
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
-        if len(p) > len(s):
-            return []
+        sCount, pCount, sL, pL = {}, {}, len(s), len(p)
+        if sL < pL: return []
 
-        pCount, sCount = {}, {}
-        k = len(p)
-
-        # build p's frequency
-        for ch in p:
-            pCount[ch] = pCount.get(ch, 0) + 1
-
-        # build the first window from s
-        for ch in s[:k]:
-            sCount[ch] = sCount.get(ch, 0) + 1
+        for i in range(pL):
+            pCount[p[i]] = 1 + pCount.get(p[i], 0)
+            sCount[s[i]] = 1 + sCount.get(s[i], 0)
 
         res = []
-        if sCount == pCount:
+        if pCount == sCount:
             res.append(0)
+        
+        # s = "ab[ab]", p = "ab"
+        # s{a:1, b:2} p{a:1, b:1} 
+        # res = [0, 1, ]
+        left = 0
+        for i in range(pL, sL):
+            sCount[s[i]] = 1 + sCount.get(s[i], 0)
 
-        l = 0
-        # slide the window
-        for r in range(k, len(s)):
-            # add right char
-            sCount[s[r]] = sCount.get(s[r], 0) + 1
-
-            # remove left char
-            left = s[l]
-            sCount[left] -= 1
-            if sCount[left] == 0:
-                sCount.pop(left)
-            l += 1
-
-            if sCount == pCount:
-                res.append(l)
-
+            lch = s[left]
+            sCount[lch] -= 1
+            left += 1
+            
+            if sCount[lch] == 0:
+                sCount.pop(lch)
+            if pCount == sCount:
+                res.append(left)
+            
         return res
+
+
+        
+
