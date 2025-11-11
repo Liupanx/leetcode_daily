@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Liupanx/leetcode_daily/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Liupanx/leetcode_daily/tree/master/0014-longest-common-prefix) |
 | [0055-jump-game](https://github.com/Liupanx/leetcode_daily/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Liupanx/leetcode_daily/tree/master/0074-search-a-2d-matrix) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Liupanx/leetcode_daily/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Liupanx/leetcode_daily/tree/master/0013-roman-to-integer) |
 | [0133-clone-graph](https://github.com/Liupanx/leetcode_daily/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Liupanx/leetcode_daily/tree/master/0139-word-break) |
