@@ -1,12 +1,11 @@
 from collections import defaultdict
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        prereq = defaultdict(list) # quick setup my value as list
+        prereq = defaultdict(list) 
         visited = set()
         for c, p in prerequisites:
             prereq[c].append(p)
-        
-        # {1: [0], 0: [1]}
+
         def is_cycle(course):
             if course in visited:
                 return True
